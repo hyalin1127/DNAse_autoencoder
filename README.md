@@ -1,3 +1,3 @@
 # DNAse_autoencoder
 
-![](Learned_DNAse_features.png.png)
+![Learned DNAse features](Learned_DNAse_features.png.png)
